@@ -1,0 +1,130 @@
+﻿  CEcoEigenfaces1Factory.c
+  CEcoEigenfaces1.c
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(140): warning C4244: =: преобразование "int64_t" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(154): warning C4244: =: преобразование "int64_t" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(241): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(244): warning C4244: return: преобразование "double" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(251): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(254): warning C4244: return: преобразование "double" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(293): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(294): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(317): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(344): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(364): warning C4101: tmp: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(356): warning C4101: success: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(468): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(469): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(484): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(486): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(491): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(503): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(504): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(510): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(519): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(529): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(634): warning C4018: >: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(635): warning C4098: PCA_init: функция типа "void", возвращающая значение
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(654): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(662): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(664): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(666): warning C4244: +=: преобразование "float_t" в "int64_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(668): warning C4244: =: преобразование "int64_t" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(625): warning C4101: eigenVectors: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(627): warning C4101: resMatrix: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(628): warning C4101: result: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(696): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(698): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(694): warning C4101: tmp: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(725): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(727): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(740): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(742): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(754): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(767): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(791): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(804): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(827): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(839): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(824): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(858): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(870): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(855): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(888): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(886): warning C4101: i: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(887): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(920): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(918): warning C4101: i: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(919): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(952): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(950): warning C4101: i: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(951): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(981): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\visual basic\vc\include\stdio.h(234): см. объявление "fopen"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(979): warning C4101: i: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(980): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1033): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1037): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1082): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1087): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1130): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1135): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1135): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1135): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1139): warning C4305: функция: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1129): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1178): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1183): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1183): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1184): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1184): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1184): warning C4305: инициализация: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1196): warning C4305: функция: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1196): warning C4047: функция: "float_t *" отличается по уровням косвенного обращения от "float_t **"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1196): warning C4024: PCA_init: различные типы для формального и фактического параметров 8
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1200): warning C4047: функция: "float_t *" отличается по уровням косвенного обращения от "float_t **"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1200): warning C4024: PCA_transform: различные типы для формального и фактического параметров 2
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1219): warning C4047: функция: "float_t *" отличается по уровням косвенного обращения от "float_t **"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1219): warning C4024: PCA_reconstruct: различные типы для формального и фактического параметров 2
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1189): warning C4101: eigenVectors: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1180): warning C4101: Q: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1177): warning C4101: j: неиспользованная локальная переменная
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1293): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1298): warning C4244: =: преобразование "int64_t" в "byte_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1327): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1333): warning C4244: =: преобразование "int64_t" в "float_t", возможна потеря данных
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1342): warning C4305: функция: усечение из "double" к "float_t"
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1355): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ecoprojects\hse\eco.framework\eco.eigenfaces1\sourcefiles\cecoeigenfaces1.c(1271): warning C4101: transformedBitmaps: неиспользованная локальная переменная
+  Создание кода...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(D:\EcoProjects\hse\Eco.Framework\Eco.Eigenfaces1\AssemblyFiles\Windows\VisualStudio_10\Eco.Eigenfaces1\StaticDebug\E9E9C1DF6AF44C268A97FE52AFDAB124.lib) не соответствует значению свойства выходного файла (D:\EcoProjects\hse\Eco.Framework\Eco.Eigenfaces1\BuildFiles\Windows\x86\StaticDebug\E9E9C1DF6AF44C268A97FE52AFDAB124.lib) для Library. Это может привести к неправильному построению проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Lib.OutputFile).
+  Eco.Eigenfaces1.vcxproj -> D:\EcoProjects\hse\Eco.Framework\Eco.Eigenfaces1\AssemblyFiles\Windows\VisualStudio_10\Eco.Eigenfaces1\StaticDebug\E9E9C1DF6AF44C268A97FE52AFDAB124.lib
